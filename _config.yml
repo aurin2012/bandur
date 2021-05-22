@@ -2,5 +2,7 @@
 title: Николай Бандурченко
 description: Психотерапевт
 
-show_downloads: true
+
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
