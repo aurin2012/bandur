@@ -8,8 +8,12 @@
 		
 <p>При покупке, вы будете автоматически перенесены в папку с купленной книгой.</p>
 
-		
+Видеокурс: «Жизнь без страха»
 
+<iframe src="https://yoomoney.ru/quickpay/button-widget?targets=%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D1%83%D1%80%D1%81%3A%20%C2%AB%D0%96%D0%B8%D0%B7%D0%BD%D1%8C%20%D0%B1%D0%B5%D0%B7%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%C2%BB&default-sum=2000&button-text=11&yoomoney-payment-type=on&button-size=m&button-color=black&successURL=https%3A%2F%2Fdisk.yandex.ru%2Fd%2FzAnZAmNgobIGsQ&quickpay=small&account=410011432758181&" width="184" height="36" frameborder="0" allowtransparency="true" scrolling="no"></iframe> <style> .site-footer { display: none; } </style>
+
+<p>При покупке, вы будете автоматически перенесены в папку с ссылками на видео, а также с копией страницы с ответами на вопросы.
+	
 <style>
 .site-footer {
 display: none;
